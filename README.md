@@ -4,7 +4,7 @@ This page has been archived and further updates will be on Christopher’s [GitH
 
 Copyright (c) 2017 Genome Research Ltd.
 
-Author : Christopher Hall, Wellcome Trust Sanger Institute, christopher.hall@sanger.ac.uk
+Author : Christopher Hall, Wellcome Trust Sanger Institute.
 
 http://www.sanger.ac.uk/science/groups/cytometry-core-facility
 
