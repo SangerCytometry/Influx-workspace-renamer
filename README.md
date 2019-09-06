@@ -1,3 +1,5 @@
+This page has been archived and further updates will be on Christopher’s [GitHub page]( https://github.com/hally166/Influx-workspace-renamer).
+
 # Workspace renamer for BD Influx running Sortware v1.2.0.142
 
 Copyright (c) 2017 Genome Research Ltd.
